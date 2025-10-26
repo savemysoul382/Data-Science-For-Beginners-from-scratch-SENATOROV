@@ -53,3 +53,4 @@ open _build/html/index.html  # Windows: start _build/html/index.html
 Локальный просмотр доков	открыть docs/_build/html/index.html
 
  https://t.me/RuslanSenatorov
+ https://t.me/SENATOROVAI
