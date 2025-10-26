@@ -51,3 +51,6 @@ open _build/html/index.html  # Windows: start _build/html/index.html
 Запуск тестов	```pytest```
 Сборка документации	```cd docs && make html```
 Локальный просмотр доков	открыть docs/_build/html/index.html
+
+ https://t.me/RuslanSenatorov
+ https://t.me/SENATOROVAI
